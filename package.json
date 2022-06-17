@@ -9,6 +9,7 @@
     "test": "mocha"
   },
   "dependencies": {
+    "jpeg-js": ">=0.4.4",
     "image-pixels": "^1.1.1",
     "rimraf": "^3.0.2"
   }
